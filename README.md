@@ -13,12 +13,9 @@
 </h1>
 </div>
 
-<!-- <h1> align="center"
-  hey there
-  <img src="https://media.giphy.com/media/f3oXKfLFPCQxdLECS8/giphy.gif" width="30px"/>
-</h1> -->
-#Test
-
+<div align="center">
+  <img src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" width="600" height="300"/>
+</div>
 
 *this is not bold, though italic*  
 
